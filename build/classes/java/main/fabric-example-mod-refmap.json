@@ -1,0 +1,46 @@
+{
+  "mappings": {
+    "net/fabricmc/example/mixin/VisibilityMixin": {
+      "renderEntity": "Lnet/minecraft/class_761;method_22977(Lnet/minecraft/class_1297;DDDFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;)V"
+    },
+    "net/fabricmc/example/mixin/RenderMixin": {
+      "renderEntity": "Lnet/minecraft/class_761;method_22977(Lnet/minecraft/class_1297;DDDFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;)V"
+    },
+    "net/fabricmc/example/mixin/IngameRenderMixin": {
+      "render": "Lnet/minecraft/class_329;method_1753(Lnet/minecraft/class_4587;F)V"
+    },
+    "net/fabricmc/example/mixin/TriggerbotMixin": {
+      "tick": "Lnet/minecraft/class_746;method_5773()V"
+    },
+    "net/fabricmc/example/mixin/EspMixin": {
+      "renderEntity": "Lnet/minecraft/class_761;method_22977(Lnet/minecraft/class_1297;DDDFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;)V"
+    },
+    "net/fabricmc/example/mixin/KeyboardMixin": {
+      "net/minecraft/client/util/InputUtil.isKeyPressed(JI)Z": "Lnet/minecraft/class_3675;method_15987(JI)Z",
+      "onKey": "Lnet/minecraft/class_309;method_1466(JIIII)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/fabricmc/example/mixin/VisibilityMixin": {
+        "renderEntity": "Lnet/minecraft/class_761;method_22977(Lnet/minecraft/class_1297;DDDFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;)V"
+      },
+      "net/fabricmc/example/mixin/RenderMixin": {
+        "renderEntity": "Lnet/minecraft/class_761;method_22977(Lnet/minecraft/class_1297;DDDFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;)V"
+      },
+      "net/fabricmc/example/mixin/IngameRenderMixin": {
+        "render": "Lnet/minecraft/class_329;method_1753(Lnet/minecraft/class_4587;F)V"
+      },
+      "net/fabricmc/example/mixin/TriggerbotMixin": {
+        "tick": "Lnet/minecraft/class_746;method_5773()V"
+      },
+      "net/fabricmc/example/mixin/EspMixin": {
+        "renderEntity": "Lnet/minecraft/class_761;method_22977(Lnet/minecraft/class_1297;DDDFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;)V"
+      },
+      "net/fabricmc/example/mixin/KeyboardMixin": {
+        "net/minecraft/client/util/InputUtil.isKeyPressed(JI)Z": "Lnet/minecraft/class_3675;method_15987(JI)Z",
+        "onKey": "Lnet/minecraft/class_309;method_1466(JIIII)V"
+      }
+    }
+  }
+}

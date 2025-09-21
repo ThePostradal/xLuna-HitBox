@@ -1,0 +1,21 @@
+net/fabricmc/example/mixin/TriggerbotMixin.java
+ net.fabricmc.example.mixin.TriggerbotMixin
+net/fabricmc/example/mixin/VisibilityMixin.java
+ net.fabricmc.example.mixin.VisibilityMixin
+net/fabricmc/example/mixin/RenderMixin.java
+ net.fabricmc.example.mixin.RenderMixin
+net/fabricmc/example/mixin/KeyboardMixin.java
+ net.fabricmc.example.mixin.KeyboardMixin
+net/fabricmc/example/gui/HitboxGuiScreen.java
+ net.fabricmc.example.gui.HitboxGuiScreen
+ net.fabricmc.example.gui.HitboxGuiScreen$1
+net/fabricmc/example/command/ModCommands.java
+ net.fabricmc.example.command.ModCommands
+net/fabricmc/example/ExampleMod.java
+ net.fabricmc.example.ExampleMod
+net/fabricmc/example/mixin/EspMixin.java
+ net.fabricmc.example.mixin.EspMixin
+net/fabricmc/example/mixin/IngameRenderMixin.java
+ net.fabricmc.example.mixin.IngameRenderMixin
+net/fabricmc/example/conf/config.java
+ net.fabricmc.example.conf.config
